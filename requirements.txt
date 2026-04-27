@@ -1,0 +1,15 @@
+pypdf
+python-docx
+requests
+spacy
+numpy
+matplotlib
+scikit-learn
+transformers
+torch
+bertopic
+hdbscan
+umap-learn
+wordcloud
+pandas
+tqdm
